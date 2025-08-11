@@ -1,1 +1,0 @@
-mwLib.notify = mwLib.notify or {}
